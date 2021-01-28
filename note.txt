@@ -1,0 +1,29 @@
+
+gambar / simbol / apasiii / logo surat masuk, keluar, disposisi, klasifikasi, pengguna di file admin.php
+
+footer yg "Developed by M. Rudianto (masrud.com)" tu dh diilangkan di file footer.php yang <script> yg jd komentar
+(<script data-pace-options='{ "ajax": false }' src='asset/js/pace.min.js'></script>) 
+
+menu yg di header "referensi" di file menu.php
+
+gimana biar file disposisi tu biar bisa dikirim langsung / diteruskan gtu? atau di download ya? 
+file srt msk yg bisa di print tu, ha tu gmn biar bisa di teruskan langsung / dikirim ke UPT2 lain yg jauh gt 
+
+ubah2 background dll
+
+ubah2 data2 misal pas isi srt masuk hapus yg ndk perlu, ganti (kode, indeks, keterangan ganti sifat)
+
+search bisa berdasarkan no urut / no agenda, semuanya
+
+
+utk skrg
+anok di edit surat masuk, kan yg tambah surat masuk dh diilangin yg kode sama indek nya tu
+edit keterangan jadi sifat di surat masuk dan edit surat masuk
+
+begitu juga surat keluar, hpus kolom kode
+atur posisi input file di surat keluar
+
+
+
+
+edit warna backgrnd card login di file materialize.css pada .card-panel
